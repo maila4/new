@@ -1,2 +1,4 @@
 hello this is my frist git
+this is my second line
+this is also my thried line
 
